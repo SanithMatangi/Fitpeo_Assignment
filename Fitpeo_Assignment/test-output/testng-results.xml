@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-27T20:45:01 IST" name="Default suite" finished-at="2024-11-27T20:46:03 IST" duration-ms="62091">
+    <groups>
+    </groups>
+    <test started-at="2024-11-27T20:45:01 IST" name="Default test" finished-at="2024-11-27T20:46:03 IST" duration-ms="62091">
+      <class name="revenuePage.RevenuePage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:revenuePage.RevenuePage@6572421]" started-at="2024-11-27T20:45:01 IST" name="setUp" finished-at="2024-11-27T20:45:16 IST" duration-ms="15554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="sliderSection()[pri:0, instance:revenuePage.RevenuePage@6572421]" started-at="2024-11-27T20:45:16 IST" name="sliderSection" finished-at="2024-11-27T20:45:18 IST" duration-ms="2071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sliderSection -->
+        <test-method signature="setValue()[pri:0, instance:revenuePage.RevenuePage@6572421]" started-at="2024-11-27T20:45:18 IST" name="setValue" finished-at="2024-11-27T20:45:32 IST" duration-ms="14052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValue -->
+        <test-method is-config="true" signature="checkboxClick()[pri:0, instance:revenuePage.RevenuePage@6572421]" started-at="2024-11-27T20:45:32 IST" name="checkboxClick" finished-at="2024-11-27T20:46:03 IST" duration-ms="30298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkboxClick -->
+        <test-method is-config="true" signature="totalReimbursementValidation()[pri:0, instance:revenuePage.RevenuePage@6572421]" started-at="2024-11-27T20:46:03 IST" name="totalReimbursementValidation" finished-at="2024-11-27T20:46:03 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalReimbursementValidation -->
+      </class> <!-- revenuePage.RevenuePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
